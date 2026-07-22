@@ -36,5 +36,6 @@ An interactive **Finance Analyst Dashboard** built using **Microsoft Power BI** 
 
 ## 📷 Dashboard Preview
 *Add screenshots of your dashboard here.*
+Screenshot 2026-07-22 215423.png
 
 ## ⭐ If you like this project, don't forget to Star the repository!
